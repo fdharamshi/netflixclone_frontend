@@ -18,6 +18,7 @@
   width: 80px;
   position: fixed;
   left: 20px;
+  top: 25px;
   object-fit: contain;
 }
 
